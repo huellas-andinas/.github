@@ -1,9 +1,9 @@
-# El Dato-Ilustrado - Revista Huellas Andinas 
-
+# El Dato Ilustrado - Revista Huellas Andinas 
 
 El **Dato Ilustrado** es una sección de la Revista Huellas Andinas dedicada a la divulgación: combinamos datos, comunicación y diseño visual para que la información técnica llegue de forma clara y cercana a quienes viven y disfrutan los espacios outdoor.
 
-## Qué encontrarás
+## Qué encontrarás?
+
 Aquí compartimos información adicional sobre cada entrega para que cualquier persona pueda explorar y sumarse a la conversación.
 
 - Notas metodológicas
@@ -11,7 +11,8 @@ Aquí compartimos información adicional sobre cada entrega para que cualquier p
 - Datos
 
 ## Conversemos
-¿Tienes preguntas, comentarios o ideas para un próximo Dato Ilustrado? escríbenos:
+
+¿Tienes preguntas, comentarios o ideas para un próximo Dato Ilustrado? Escríbenos:
 
 - Correo: [info@huellasandinas.org](mailto:info@huellasandinas.org)
 - Instagram: [@huellasandinas.ec](https://www.instagram.com/huellasandinas.ec/)
