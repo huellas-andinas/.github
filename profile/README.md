@@ -4,7 +4,7 @@ El **Dato Ilustrado** es una sección de la Revista Huellas Andinas dedicada a l
 
 ## Qué encontrarás?
 
-Aquí compartimos información adicional sobre cada entrega para que cualquier persona pueda explorar y sumarse a la conversación.
+Aquí compartimos información adicional sobre cada sección publicada de El Dato Ilustrado para que cualquier persona pueda explorar y sumarse a la conversación.
 
 - Notas metodológicas
 - Gráficos
